@@ -1,0 +1,48 @@
+[33mcommit d03720bef5923822d7ca39753ffafb694e603e4f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Prajwal Patil <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:42:38 2024 +0530
+
+    Remove OpenAI API key
+
+[33mcommit 8a61475dd3736b778908f24a420d5f63745f3ff2[m
+Merge: a5b7535 ae44aaf
+Author: Prajwal Patil <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:37:53 2024 +0530
+
+    Merge branch 'main' of https://github.com/Prajwal841/-Neosurge-Investment-Insight-Backend-App-Development-Challenge-
+
+[33mcommit a5b7535a693eeb2e5215eddd5b75902f5f9ce9ac[m
+Author: Prajwal Patil <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:37:11 2024 +0530
+
+    Add investment_insights directory
+
+[33mcommit ae44aafcc2f9f3d3cc9732272f4f015988fc3012[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: _Prajwal_Patil_ <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:25:32 2024 +0530
+
+    Update README.md
+
+[33mcommit 91b6aa513e201d9c3db4d3d22f2b67ddeef91a58[m
+Author: _Prajwal_Patil_ <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:21:50 2024 +0530
+
+    Update README.md
+
+[33mcommit 2986d23bb4214a75dc3323a399462e647ba655f8[m
+Author: _Prajwal_Patil_ <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:20:11 2024 +0530
+
+    Add files via upload
+
+[33mcommit 6fe6d4c66f27c83eefed9530783c23bba09aceca[m
+Author: _Prajwal_Patil_ <prajwalpatil841@gmail.com>
+Date:   Fri May 31 16:15:54 2024 +0530
+
+    Update README.md
+
+[33mcommit fe5d7f825c052b79a4bce310be5f631aae64db2a[m
+Author: _Prajwal_Patil_ <prajwalpatil841@gmail.com>
+Date:   Fri May 31 15:37:20 2024 +0530
+
+    Initial commit
